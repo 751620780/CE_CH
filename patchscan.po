@@ -1,0 +1,67 @@
+﻿#: patchscan-nave
+msgid "Not a valid executable"
+msgstr "不是可执行文件"
+
+#: patchscan-navwe
+msgid "Not a valid windows executable"
+msgstr "不是windows中有效的可执行文件"
+
+#: patchscan-ttomicns
+msgid "This type of module is currently not supported"
+msgstr "此类模块当前还不支持"
+
+#: patchscan-ce
+msgid "Compare error. "
+msgstr "比较出错."
+
+#: patchscan-ml
+msgid "Module List"
+msgstr "模块列表"
+
+#: patchscan-stmtsfp
+msgid "Select the modules to scan for patches. Hold shift/ctrl to select multiple modules"
+msgstr "选择模块并扫描模块中的补丁，按住Ctrl/Shift键同时选择多个模块一起扫描"
+
+#: patchscan-ok
+msgid "  OK  "
+msgstr " 确认 "
+
+#: patchscan-cancel
+msgid "Cancel"
+msgstr "取消"
+
+#: patchscan-scanning
+msgid "Scanning: %s"
+msgstr "正在扫描：%s"
+
+#: patchscan-ei
+msgid "Error in "
+msgstr "错误发生在"
+
+#: patchscan-pl
+msgid "Patch list"
+msgstr "补丁列表"
+
+#: patchscan-address
+msgid "Address"
+msgstr "地址"
+
+#: patchscan-original
+msgid "Original"
+msgstr "原始字节码"
+
+#: patchscan-patched
+msgid "Patched"
+msgstr "打补丁后的字节码"
+
+#: patchscan-rwo
+msgid "Restore with original"
+msgstr "去除补丁，恢复为原始字节码"
+
+#: patchscan-rp
+msgid "Reapply patch"
+msgstr "设置为打补丁后的字节码"
+
+#: patchscan-sfp
+msgid "Scan for patches"
+msgstr "扫描补丁(被扫描模块路径只能由英文组成)"
